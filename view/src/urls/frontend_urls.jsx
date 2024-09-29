@@ -1,0 +1,13 @@
+export const HOMEPAGE = "/home";
+export const USER_ENTRY = "/userentry";
+export const TRANSCRIPT = "/transcript";
+export const CONTEST = "/contest";
+export const UNAUTHORIZED = "/unauthorized";
+export const RESOURCES = "/resources";
+export const PROFILE = "/profile";
+export const USERS = "/users";
+export const LOGIN = "/login";
+export const REGISTER = "/register";
+export const SIGNUP = "/signup";
+export const FORGOT_PASSWORD = "/forgot_password";
+export const RESET_PASSWORD = "/reset_password";

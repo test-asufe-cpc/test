@@ -1,0 +1,13 @@
+{
+  "LOGIN": "/api/auth/login",
+  "ROLES": "/api/admin/roles",
+  "ASSIGN_MENTORS": "/api/admin/mentor-assignments",
+  "USERS": "/api/admin/users",
+  "SIGNUP": "/api/auth/signup",
+  "LEVELS": "/api/admin/levels",
+  "SEASONS": "/api/seasons",
+  "REGISTRATION": "/api/registration-status",
+  "ENROLL": "/api/enrollments",
+  "FORGOT_PASSWORD": "/api/auth/forgot-password",
+  "RESET_PASSWORD": "/api/auth/reset-password"
+}
